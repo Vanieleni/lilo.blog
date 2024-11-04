@@ -1,12 +1,10 @@
 +++
-title = "About me"
-draft = false
-description = ""
+title = "Vanessa Bärtschi"
+draft = true
 image = "/img/default-author.jpg"
+description = "Hallo Welt"
 +++
-![](/img/default-author.jpg)
-
-## My Name
+Vanessa Bärtschi
 
 mail@example.org
 
