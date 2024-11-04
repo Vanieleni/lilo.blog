@@ -1,6 +1,6 @@
 +++
 title = "Vanessa Bärtschi"
-draft = false
+draft = true
 image = "/img/default-author.jpg"
 description = "Hallo Welt"
 +++
