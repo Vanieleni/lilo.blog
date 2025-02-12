@@ -4,7 +4,15 @@ date = "2025-02-12"
 draft = false
 pinned = false
 +++
+
+
+{{<lead>}}
+
 Hansueli Lauber, ein Mitarbeiter der AVC in Safnern, der mit seinen Logistikkünsten alles dafür gibt, den Menschen in Not zu helfen.
+
+{{</lead>}}
+
+
 
 Vanessa Bärtschi & Giulia Lobsiger![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCpZKHOKhwk1iZyzzcjuX09nZ8CUmDdP5dTpwW05nRrT-EXQFIt7_YFVJIMhuAlH35wgfQKtO5jLjfmhpDhGEoyALjmqlHaGMov0GH6jBzukcEjEpQG7q5ZuYExfpA8p5PLP31sQT8wy-epy553g?key=ucyacmYaGRRlGJ5shysx-xEx)
 
