@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/screenshot-2024-10-23-113844.png"
-logo = "/media/screenshot-2024-10-23-113844.png"
-image = "/media/screenshot-2024-10-23-113844.png"
+icon = "/media/sea-7364224_1280.jpg"
+logo = "/media/sea-7364224_1280.jpg"
+image = "/media/sea-7364224_1280.jpg"
 color = "#5a4ae3"
 +++
