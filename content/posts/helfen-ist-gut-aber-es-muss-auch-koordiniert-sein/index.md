@@ -54,4 +54,4 @@ Unbedingt machen! Nicht «nur» spenden, sondern auch einmal in ein Land reisen.
 Die AVC ist ein internationales Hilfswerk, das sich weltweit für
 verfolgte Christen und Notleidende einsetzt. Mit lokalen Partnern engagiert sich die AVC in über sechzig Ländern auf vier Kontinenten. Sie arbeitet im Brennpunkt, dort wo geistliche und materielle Not zusammentreffen.
 
-{{</box>}}
+{{</lead>}}
