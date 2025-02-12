@@ -46,12 +46,10 @@ Dass wir die Qualität an Ware, die gespendet wird, noch besser überprüfen kö
 
 Unbedingt machen! Nicht «nur» spenden, sondern auch einmal in ein Land reisen. Aus der Schweiz heraus und alles selbst miterleben. Das Leben in Ländern mit Mangel an Waren ist ganz anders als hier. Wir sollten dankbar für unser System hier in der Schweiz sein. Mit dem Mitanpacken erweitert man auch seinen eigenen Horizont, man kann ganz simpel helfen Päckchen zu verteilen.
 
-
-
 {{<box>}}
 
 **Infokasten**
 Die AVC ist ein internationales Hilfswerk, das sich weltweit für
 verfolgte Christen und Notleidende einsetzt. Mit lokalen Partnern engagiert sich die AVC in über sechzig Ländern auf vier Kontinenten. Sie arbeitet im Brennpunkt, dort wo geistliche und materielle Not zusammentreffen.
 
-{{</lead>}}
+{{</box>}}
